@@ -1,0 +1,144 @@
+{
+  "footer": {
+    "title": "© 2019 VIETRADE. ALL RIGHTS RESERVED.",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "site_map": "Site map",
+    "QR_code": " Quét QR để tải ứng dụng Viettrade",
+    "youtube": "Youtube",
+    "contact": "Liên hệ",
+    "FAQ": "FAQ",
+    "phone": "(04) 3934 7628",
+    "operating_time": "Giờ hoạt động : 8:00 - 17:00",
+    "address": "20 Lý Thường Kiệt, Hoàn Kiếm, Hà Nội.",
+    "mail": "vietrade@vietrade.gov.vn",
+    "public_service": "Dịch vụ công",
+    "or": "Hoặc"
+  },
+  "header": {
+    "title": "header title",
+    "time_active": "Giờ hoạt động :",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "vietnam": "Tiếng Việt",
+    "english": "Tiếng Anh"
+  },
+  "home": {
+    "communication": "Truyền thông truyền hình",
+    "export_news": "Tin xuất khẩu",
+    "hot_event": "Sự kiện nổi bật",
+    "latest_news": "Tin mới nhất",
+    "other_news": "Tin xuất khẩu khác",
+    "banner": "Banner",
+    "carousel": "Carousel",
+    "category": "Category",
+    "media": "Đa phương tiện",
+    "introduce": "Giới thiệu",
+    "introduce_commercial": "Giới thiệu thương mại",
+    "news": "Tin tức",
+    "public_service": "Dịch vụ công",
+    "contact": "Liên hệ",
+    "publications": "Ấn phẩm xuất bản",
+    "title": "home page",
+    "affiliates": "Các đơn vị liên kết",
+    "new_event": "Tin tức - Sự kiện",
+    "new_views": "Tin xem nhiều",
+    "top_portal": "TOP 200 doanh nghiệp",
+    "search": "Tìm kiếm"
+  },
+  "common": {
+    "action": "Hành động",
+    "delete": "Xóa",
+    "update": "Cập nhật",
+    "create": "Thêm mới",
+    "cancel": "Thoát",
+    "confirm": "Đồng ý",
+    "search": "Tìm kiếm",
+    "save": "Lưu",
+    "feature_image": "Ảnh",
+    "title": "Tiêu đề",
+    "content": "Nội dung",
+    "delete_confirm": "Bạn có chắc chắn muốn xóa dữ liệu ?"
+  },
+  "publication": {
+    "id": "id",
+    "title": "Tiêu đề",
+    "title_en": "Tiêu đề tiếng anh",
+    "description": "Mô tả",
+    "description_en": "Mô tả tiếng anh",
+    "content": "Nội dung",
+    "content_en": "Nội dung tiếng anh",
+    "feature_image": "Ảnh",
+    "pdf_file": "Tệp PDF",
+    "document": "Tài liệu",
+    "list": "Danh sách ấn phẩm"
+  },
+  "category": {
+    "id": "id",
+    "name": "Tên thể loại",
+    "description": "Mô tả",
+    "list": "Danh sách thể loại"
+  },
+  "user": {
+    "id": "id",
+    "name": "Tên",
+    "status": "Trạng thái",
+    "role": "Vai trò"
+  },
+  "post": {
+    "name": "Tên bài viết",
+    "description": "Mô tả",
+    "content": "Nội dung",
+    "category": "Tên thể loại",
+    "publish": "Trạng thái",
+    "option": "Lựa chọn",
+    "feature_image": "Ảnh",
+    "feature_document": "Tài liệu"
+  },
+
+  "project": {
+    "name": "Tên dự án",
+    "description": "Mô tả",
+    "content": "Nội dung",
+    "option": "Lựa chọn",
+    "feature_image": "Ảnh",
+    "feature_document": "Tài liệu"
+  },
+
+  "company": {
+    "name": "Tên doanh nghiệp",
+    "description": "Mô tả",
+    "link": "Đường dẫn",
+    "display": "Thứ tự",
+    "connective": "Đơn vị liên kết",
+    "feature_image": "Ảnh",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ"
+  },
+  "media": {
+    "name": "Tên",
+    "content": "Nội dung",
+    "feature_video": "Video"
+  },
+  "question": {
+    "question_vi": "Câu hỏi",
+    "answer_vi": "Câu trả lời",
+    "question_en": "Câu hỏi tiếng anh",
+    "answer_en": "Câu trả lời tiếng anh",
+    "display": "Số thứ tự"
+  },
+  "category-document": {
+    "category_id": "Danh mục cha",
+    "title_vi": "Tiêu đề",
+    "title_en": "Tiêu đề tiếng anh",
+    "created_at": "Ngày tạo"
+  },
+  "document": {
+    "title": "Tiêu đề",
+    "category_id": "Danh mục",
+    "title_en": "Tiêu đề tiếng anh",
+    "description": "Mô tả",
+    "description_en": "Mô tả tiếng anh",
+    "feature_document": "Tài liệu đính kèm"
+  }
+}

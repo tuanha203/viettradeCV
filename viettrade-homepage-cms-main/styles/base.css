@@ -1,0 +1,75 @@
+:root {
+    --blue: #1D5FAA;
+    --light-blue: #0989FE;
+    --dark-gray: #091C33;
+    --gray: #9E9E9E;
+    --light-gray: #9E9E9E;
+    --danger: #ED3237;
+    --green: #2CBE3B;
+    --cornflower-blue: #91BBFF;
+    --very-light-blue: #E8EFF7;
+
+    --primary: var(--blue);
+
+    --text-main: #000000;
+    --text-sub: #ffffff;
+    --text-gray: var(--dark-gray);
+
+    --tab-height: 36;
+    --navigation-height: 56;
+    --header-height: 35;
+}
+
+/* Custom ANTD Mobile theme: https://mobile.ant.design/guide/theming */
+:root:root {
+    --adm-color-primary: var(--primary);
+    --adm-color-success: #00b578;
+    --adm-color-warning: #ff8f1f;
+    --adm-color-danger: var(--danger);
+
+    --adm-color-white: #ffffff;
+    --adm-color-text: var(--text-main);
+    --adm-color-text-secondary: var(--text-main);
+    --adm-color-weak: #999999;
+    --adm-color-light: var(--text-sub);
+    --adm-color-border: #eeeeee;
+    --adm-color-box: #f5f5f5;
+    --adm-color-background: #ffffff;
+
+    --adm-font-size-main: var(--adm-font-size-6);
+    --adm-image-height: 100%;
+}
+
+@tailwind base;
+
+@layer base {
+    body {
+        overscroll-behavior-y: none;
+        min-height: 100vh;
+        min-height: -webkit-fill-available;
+        text-rendering: optimizeLegibility;
+        touch-action: manipulation;
+        text-size-adjust: none;
+        user-select: none;
+    }
+
+    html {
+        height: -webkit-fill-available;
+    }
+
+    ::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background: #8f8f8f;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background: #8f8f8f;
+    }
+}
+

@@ -1,0 +1,75 @@
+{
+  "title": "page title",
+  "home": {
+    "time_active": "Time active :",
+    "login": "Login",
+    "register": "Register",
+    "vietnam": "Vietnam",
+    "english": "English",
+    "new_event": "News - Events"
+  },
+  "export_support": {
+    "intro": "Export Support Center (PROMOCEN)",
+    "home": "Introduce"
+  },
+  "function_mission": {
+    "intro": "Mandates",
+    "home": "Introduce"
+  },
+  "common": {
+    "action": "Action",
+    "delete": "Delete",
+    "update": "Update",
+    "create": "Create",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "search": "Search",
+    "save": "Save",
+    "feature_image": "Image",
+    "title": "Title",
+    "content": "Content",
+    "delete_confirm": "Are you sure ?"
+  },
+  "publication": {
+    "id": "id",
+    "title": "Title",
+    "content": "Content",
+    "feature_image": "Image",
+    "link": "Link",
+    "document": "Document",
+    "list": "Publication list"
+  },
+  "category": {
+    "id": "id",
+    "name": "Name category",
+    "description": "Description",
+    "list": "Category list"
+  },
+  "user": {
+    "id": "id",
+    "name": "Name",
+    "status": "Status",
+    "role": "Role"
+  },
+  "post": {
+    "name": "Name post",
+    "description": "Description",
+    "content": "Content",
+    "category": "Name category",
+    "publish": "Publish",
+    "feature_image": "Image"
+  },
+
+  "project": {
+    "name": "Name project",
+    "description": "Description",
+    "content": "Content",
+    "feature_image": "Image"
+  },
+
+  "media": {
+    "name": "Name",
+    "content": "Content",
+    "feature_video": "Video"
+  }
+}

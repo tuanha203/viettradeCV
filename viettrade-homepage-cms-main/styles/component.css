@@ -1,0 +1,152 @@
+span.ant-menu-title-content {
+  margin-inline-start: 0 !important;
+}
+
+.ant-menu-light.ant-menu-horizontal>.ant-menu-item-selected {
+  color: red;
+  background-color: blue;
+  border-radius: 0;
+  /* height: 100%; */
+}
+
+.ant-menu-light.ant-menu-horizontal>.ant-menu-item-selected::after {
+  content: none;
+}
+
+.ant-menu-light.ant-menu-horizontal>.ant-menu-item-active {
+  border: none;
+}
+
+::placeholder {
+  color: var(--blue) !important;
+  opacity: 1 !important;
+}
+
+.wp-preview-image {
+  display: flex;
+  justify-content: center;
+}
+
+.wp-preview-image img {
+  width: 250px;
+  object-fit: cover;
+  height: 300px;
+}
+
+.ant-input-search .ant-input-wrapper .ant-input-group-addon .ant-input-search-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--light-blue);
+}
+
+.ant-input-search .ant-input-wrapper .ant-input-group-addon .ant-input-search-button:hover {
+  background-color: var(--blue);
+}
+
+.ant-input-search .ant-input-wrapper .ant-input-group-addon .ant-input-search-button .anticon svg {
+  fill: white;
+}
+
+.btn-info {
+  background-color: #198fed !important;
+}
+
+.btn-primary {
+  background-color: #5930a1 !important;
+}
+
+.ant-table-filter-dropdown .ant-table-filter-dropdown-btns .ant-btn-primary {
+  background-color: var(--light-blue);
+}
+
+.custom-table thead th {
+  position: relative;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.88);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.custom-table th:not([id=""])::after {
+  position: absolute;
+  top: 50%;
+  inset-inline-end: 0;
+  width: 1px;
+  height: 1.6em;
+  background-color: rgba(5, 5, 5, 0.06);
+  transform: translateY(-50%);
+  transition: background-color 0.3s;
+  content: "";
+}
+
+.custom-table tbody td {
+  color: rgba(0, 0, 0, 0.88);
+}
+
+.is-invalid>div {
+  border-color: #dc3545;
+}
+
+.wp-modal-info {
+  border: 1px solid rgba(5, 5, 5, 0.06);
+  border-radius: 5px;
+}
+
+.item_modal-info {
+  border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.label_modal-info {
+  background-color: rgba(0, 0, 0, 0.02);
+  border-right: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.item_modal-info .label_modal-info,
+.item_modal-info .content_modal-info {
+  padding: 16px 24px;
+}
+
+.ant-collapse-header {
+  border-radius: 0 !important;
+  font-size: 15px;
+  color: #5f5f5f;
+}
+
+.ant-collapse-item-active .ant-collapse-header {
+  background: #f1f1f1;
+}
+
+.ant-collapse-header:hover {
+  background: #f1f1f1;
+}
+
+.ant-collapse-content-box {
+  padding: 0 !important;
+  border: 1px solid #ededed;
+}
+
+.ant-collapse {
+  margin-top: 5px;
+}
+
+.wp_detail_button a {
+  color: rgba(0, 0, 0, 0.88);
+}
+
+.icon-pass {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
+}
+
+.img-table {
+  object-fit: cover;
+  width: 100%;
+  height: 100%
+}
+.customFontSize14px > p > span{
+  font-size: 14px !important;
+}

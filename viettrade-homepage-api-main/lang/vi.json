@@ -1,0 +1,5 @@
+{
+  "params_is_required": "%1 là bắt buộc",
+  "param_max_length": "%1 Please enter within %2 characters.",
+  "param_min_length": " %1 must be at least %2 characters"
+}

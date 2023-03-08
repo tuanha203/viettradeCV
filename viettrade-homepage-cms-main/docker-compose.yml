@@ -1,0 +1,11 @@
+version: "3"
+services:
+  viettrade-app-cms:
+    container_name: viettrade-cms
+    build: ./
+    stdin_open: true
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./:/app
+      - /app/node_modules
